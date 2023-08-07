@@ -17,4 +17,6 @@ Este projeto é um exemplo de manipulação de uma imagem no formato PPM (Portab
 
 `python main.py`
 
-** Certifique-se que o arquivo de imagem desejado, "imagem.ppm", está na mesma pasta na qual iremos executar o Script.
+**Observação 1:** Certifique-se que o arquivo de imagem desejado, "imagem.ppm", está na mesma pasta na qual iremos executar o Script.
+
+**Observação 2:** No repositório há imagens no formato "ppm" e "jpg" pois o Github não exibe fotos no formato "ppm". Portanto foram adicionados as fotos "jpg" para mostrar como as mesmas são vistas com o auxilio de um programa, como o "Gimp", que suporta o formato original "ppm".
