@@ -1,7 +1,7 @@
 ## Abrindo Imagem ##
 with open("imagem.ppm", "r") as image:
   ppm_info = (image.readlines())
-print(ppm_info)
+print("Infomacoes da Imagem Original:\n", ppm_info)
 image = []
 aux = []
 controle = False
@@ -43,4 +43,4 @@ file = open("imagem_editada.ppm", "w")
 file.write(ppm_info)
 file.close()
 
-print(ppm_info)
+print("\nInfomacoes da Imagem Editada:\n", ppm_info)
