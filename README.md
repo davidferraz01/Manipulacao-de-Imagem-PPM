@@ -1,6 +1,6 @@
 # Manipulação de Imagem PPM
 
-Este projeto é um exemplo de manipulação de uma imagem no formato PPM (Portable Pixmap), que é um formato de arquivo de imagem de mapa de bits, comumente utilizado para representar imagens em formato RGB.
+Este projeto é um exemplo de manipulação de uma imagem no formato PPM (Portable Pixmap), que é um formato de arquivo de imagem de mapa de bits, comumente utilizado para representar imagens em formato RGB. Esse Script foi desenvolvido como parte do estudo realizado na disciplina de Processamento de Imagens.
 
 ## Funcionamento do Script
 
